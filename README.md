@@ -1,4 +1,5 @@
-# Hi there! 👋
+
+ Hi there! 👋
 
 I'm Claire Namagala Israel, a software developer passionate about building impactful digital solutions that improve lives.
 
