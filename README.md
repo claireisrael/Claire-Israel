@@ -1,10 +1,13 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=I+am+Claire+Israel+Namagala" alt="Typing animation of Claire's name" />
+</p>
 
- Hi there! 👋
+<!-- Then add your other sections below -->
 
-I'm Claire Namagala Israel, a software developer passionate about building impactful digital solutions that improve lives.
+## 👩‍💻 About Me
+Hi! I'm Claire — a full-stack developer focused on meaningful software solutions.
 
-With a strong foundation in Python, I specialize in creating modern web and mobile applications using Django, React, and React Native. I thrive on solving real-world problems, whether through backend APIs, intuitive frontend design, or complete system architecture.
-
+...
 
 
 ⚡ Fun Facts:
