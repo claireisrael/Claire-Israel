@@ -4,13 +4,14 @@
 
 
 
-## About Me 👩‍💻
-Hi! I'm Claire, a Software developer focused on meaningful software solutions.  
+## About Me 
+I'm Claire, a Software developer focused on meaningful software solutions.  
 With a strong foundation in programming and software development, I specialize in creating innovative solutions that enhance user experiences. Passionate about continuous learning and collaboration, I'm driven to make a positive impact by solving real-world challenges through technology.
 
 
 
-## Tech Stack 🧰
+## Tech Stack 
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="30" />
@@ -20,7 +21,9 @@ With a strong foundation in programming and software development, I specialize i
 </p>
 
 
-## Projects   
+
+## Projects  
+ 
 Here are some of the projects I'm most involved in.  
  [My Portfolio](https://portfolio-q8l9-2c66r48o3-claire-israels-projects.vercel.app/)
 
