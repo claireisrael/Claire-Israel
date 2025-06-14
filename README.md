@@ -5,7 +5,7 @@
 
 
 ## About Me 
-I'm Claire, a Software developer focused on meaningful software solutions.  
+I'm a Software developer focused on meaningful software solutions.  
 With a strong foundation in programming and software development, I specialize in creating innovative solutions that enhance user experiences. Passionate about continuous learning and collaboration, I'm driven to make a positive impact by solving real-world challenges through technology.
 
 
