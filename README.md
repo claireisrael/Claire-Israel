@@ -24,7 +24,7 @@ With a strong foundation in programming and software development, I specialize i
 
 ## Projects  
  
-Here are some of the projects I'm most involved in.  
+Here are some of the projects I have worked on.  
  [My Portfolio](https://portfolio-q8l9-2c66r48o3-claire-israels-projects.vercel.app/)
 
 
