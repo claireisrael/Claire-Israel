@@ -34,8 +34,8 @@ Learning mobile development with React Native and Django.
 Building a software trial hunting system.
 
 ## Let's Connect  
-📞 0763763228 / 0748031688 
+ 0763763228 / 0748031688 
  
-📧 israelclaire5@gmail.com 
+ israelclaire5@gmail.com 
  
  [LinkedIn](https://www.linkedin.com/in/claire-namagala-79ba7a34b/)
